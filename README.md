@@ -19,5 +19,5 @@ C solutions for Assignment-2, solved and accepted on HackerRank.
 * Input and Output with `printf`/`scanf`
 * User defined functions
 * `for` loops
-* Bitwise operators(`&, |, ^`)
+* Bitwise operators(`&`, `|`, `^`)
 * `if without else`/ `if with else` statements
