@@ -15,3 +15,9 @@ C solutions for Assignment-2, solved and accepted on HackerRank.
 | 3 | For Loop in C | Row 3, Col 3 |
 | 4 | Bitwise Operators | Row 4, Col 3 |
 | 5 | Conditional Statements in C | Row 5, Col 3 |
+# Concepts Covered
+* Input and Output with printf/scanf
+* User defined functions
+* for loops
+* Bitwise operators(&, |, ^)
+* if without else/ if with else statements
