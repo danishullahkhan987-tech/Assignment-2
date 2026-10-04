@@ -10,11 +10,11 @@ C solutions for Assignment-2, solved and accepted on HackerRank.
 # Programs
 | S.NO | Programs | File |
 | :--- | :--- | :--- |
-| 1 | Sum and difference of two numbers | Row 1, Data 3 |
-| 2 | Functions in C | Row 2, Data 3 |
-| 3 | For loop in C | Row 3, Data 3 |
-| 4 | Bitwise Operators | Row 4, Data 3 |
-| 5 | Conditional statements in C | Row 5, Data 3 |
+| 1 | Sum and difference of two numbers | `1. Sum_Difference.c` |
+| 2 | Functions in C | `2. Functions.c` |
+| 3 | For loop in C | `3. For_loop.c` |
+| 4 | Bitwise Operators | `4. Bitwise_operators.c` |
+| 5 | Conditional statements in C | `5. Conditional_statements.c` |
 # Concepts Covered:
 * Input and Output with `printf`/ `scanf`
 * User defined functions
