@@ -8,11 +8,10 @@
 # About    
 C solutions for Assignment-2, solved and accepted on HackerRank.  
 # Programs
-| S.no | Problem | File |
+| S.No | Problem | File |
 | :--- | :--- | :--- |
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
-| Row 4, Col 1 | Row 4, Col 2 | Row 4, Col 3 |
-| Row 5, Col 1 | Row 5, Col 2 | Row 5, Col 3 |
-| Row 6, Col 1 | Row 6, Col 2 | Row 6, Col 3 |
+| 1 | Sum and Difference of Two Numbers | Row 1, Col 3 |
+| 2 | Functions in C | Row 2, Col 3 |
+| 3 | For Loop in C | Row 3, Col 3 |
+| 4 | Bitwise Operators | Row 4, Col 3 |
+| 5 | Conditional Statements in C | Row 5, Col 3 |
