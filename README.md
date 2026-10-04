@@ -8,7 +8,7 @@
 # About    
 C solutions for Assignment-2, solved and accepted on HackerRank.  
 # Programs
-| Header 1 | Header 2 | Header 3 |
+| S.no | Problem | File |
 | :--- | :--- | :--- |
 | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
