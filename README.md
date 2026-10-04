@@ -1,49 +1,23 @@
-<div align="center">
-
-# 🧠 Coding Solutions
-
-![Total Solved](https://img.shields.io/badge/Total_Solved-5-blue?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
-![Last Synced](https://img.shields.io/badge/Last_Synced-10--4--2026-green?style=for-the-badge)
-
-> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
-
-</div>
-
----
-
-## 📊 Stats
-
-| Difficulty | Solved |
-|:---:|:---:|
-| 🟢 Easy | **0** |
-| 🟡 Medium | **5** |
-| 🔴 Hard | **0** |
-| **Total** | **5** |
-
-## 🛠️ Languages
-
-| Language | Solutions |
-|:---:|:---:|
-| C | **5** |
-
-## 📂 Repository Structure
-
-```
-📦 coding-solutions/
-├── leetcode/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-├── hackerrank/
-├── codechef/
-└── gfg/
-```
-
----
-
-<div align="center">
-
-*Last updated: 2026-10-04* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
-
-</div>
+# PPS Assignment-2  
+**Name**: Mohammed Danishullah Khan  
+**ROLL NO**: 160926748003  
+**Course**: Programming For Problem Solving  
+**Institute**: Lords Institute of Engineering and Technology  
+**Branch**: CSM-A | I-BE, I-Semester(LR26)  
+**Unit**: 2  
+# About
+C solutions for Assignment-2, solved and accepted on HackerRank.
+# Programs
+| S.NO | Programs | File |
+| :--- | :--- | :--- |
+| 1 | Sum and difference of two numbers | Row 1, Data 3 |
+| 2 | Functions in C | Row 2, Data 3 |
+| 3 | For loop in C | Row 3, Data 3 |
+| 4 | Bitwise Operators | Row 4, Data 3 |
+| 5 | Conditional statements in C | Row 5, Data 3 |
+# Concepts Covered:
+* Input and Output with `printf`/ `scanf`
+* User defined functions
+* `for` loops
+* Bitwise Operators (`&`, `|`, `^`)
+* `if without else`/`if with else` conditional statements
