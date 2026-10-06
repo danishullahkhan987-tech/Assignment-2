@@ -1,9 +1,9 @@
 # PPS Assignment-2  
-**Name**: Mohammed Danishhullah Khan
-**ROLL NO**: 160926748003
-**Course**: Programming for Problem Solving
-**Institute**: Lords Institute of Engineering and Technology
-**Branch**: CSM-A | 1-B.E | 1-Semester(LR26)
+**Name**: Mohammed Danishhullah Khan  
+**ROLL NO**: 160926748003  
+**Course**: Programming for Problem Solving  
+**Institute**: Lords Institute of Engineering and Technology  
+**Branch**: CSM-A | 1-B.E | 1-Semester(LR26)  
 **Unit**: 2
 # About
 C solutions for Assignment-2.. solved and accepted on hackerRank.
